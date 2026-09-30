@@ -53,3 +53,4 @@ Output lines look like `CHECK html_doctype PASS 15/15` — the same format the g
 ## Rules
 - This is an **individual** assignment. Do not share code.
 - Do not modify anything under `tests/` or `.github/` — official grading uses the instructor's pristine copy of the tests, and tampering is an academic-integrity violation.
+
